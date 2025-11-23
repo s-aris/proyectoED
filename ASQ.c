@@ -2,7 +2,6 @@
 
 int main() {
     int respuestas[6];
-    int key, counter = 1;
     const char *preguntas[6] = {
         "Is random access by index needed frequently?",
         "Are insertions/deletions in the middle common?",
